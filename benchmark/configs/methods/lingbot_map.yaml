@@ -1,5 +1,5 @@
 model: lingbot_map
-env: lingbot_map
+env: lingbot-map
 _checkpoint: /path/to/lingbot-map.pt
 _device: cuda
 _mode: streaming
